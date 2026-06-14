@@ -12,7 +12,8 @@ executable solution programs, and independently verified route results.
 
 For detailed reproduction instructions, see `User_Guide_EN.md`. For the AI-KM
 platform overview, see `AI-KM_README.md` and the AI-KM project at
-https://github.com/whl1207/Knowledge.
+https://github.com/whl1207/Knowledge. The AI-KM platform was developed as a 
+companion research output to support the study reported in this paper.
 
 ## Method Overview
 
