@@ -1,4 +1,4 @@
-# K-HLIDF for UAV Emergency Logistics Network Optimization
+# K-HLIDSS for UAV Emergency Logistics Network Optimization
 
 This repository contains the public experimental data, workflow configurations,
 source code, and certified result tables used in the paper on a
