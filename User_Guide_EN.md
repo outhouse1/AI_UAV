@@ -1,6 +1,6 @@
-# User Guide: Reproducing the K-HLIDF UAV Emergency Logistics Experiments with AI-KM and Local Programs
+# User Guide: Reproducing the K-HLIDSS UAV Emergency Logistics Experiments with AI-KM and Local Programs
 
-This guide helps users reproduce the Section 4 experiments from the paper *Knowledge-based Human-LLM Interaction Decision Support Framework for UAV Emergency Logistics Network Optimization*. It describes only the public reproduction workflow, data, and program entry points used by the paper experiments.
+This guide helps users reproduce the Section 4 experiments from the paper *Knowledge-based Human-LLM Interaction Decision Support System for UAV Emergency Logistics Network Optimization*. It describes only the public reproduction workflow, data, and program entry points used by the paper experiments.
 
 For general AI-KM platform usage, see `AI-KM_README.md` in this folder. This project also provides directly runnable Python programs, so users can reproduce result tables, case outputs, and figures without rerunning the full AI-KM interaction process.
 
@@ -8,7 +8,7 @@ For general AI-KM platform usage, see `AI-KM_README.md` in this folder. This pro
 
 ## 1. Reproduction Goals
 
-This project evaluates the role of K-HLIDF in UAV emergency logistics network optimization. It does not propose a new routing model or a single new metaheuristic. The reproduction goals are:
+This project evaluates the role of K-HLIDSS in UAV emergency logistics network optimization. It does not propose a new routing model or a single new metaheuristic. The reproduction goals are:
 
 1. Map natural-language emergency dispatching requirements into MDVRP model elements through a structured semantic template;
 2. Generate executable solution programs through AI-KM knowledge bases, workflows, skill mode, and feedback verification;
@@ -339,4 +339,4 @@ Only results that pass path-level reverse verification are used for Gap statisti
 
 ## 8. Summary
 
-This guide provides two reproduction paths. The first reconstructs structured semantic input, knowledge-guided reasoning, multi-stage algorithm generation, and feedback verification in AI-KM. The second directly reproduces experimental results with the public local programs in this repository. The five algorithms in Section 4.1.4 should be understood as solution programs generated, corrected, and uniformly verified through AI-KM multi-stage interaction. The real-world case and dynamic disturbance experiments in Section 4.2 use Alg-5 and local programs to demonstrate how K-HLIDF maps real spatial data into verifiable dispatching solutions.
+This guide provides two reproduction paths. The first reconstructs structured semantic input, knowledge-guided reasoning, multi-stage algorithm generation, and feedback verification in AI-KM. The second directly reproduces experimental results with the public local programs in this repository. The five algorithms in Section 4.1.4 should be understood as solution programs generated, corrected, and uniformly verified through AI-KM multi-stage interaction. The real-world case and dynamic disturbance experiments in Section 4.2 use Alg-5 and local programs to demonstrate how K-HLIDSS maps real spatial data into verifiable dispatching solutions.

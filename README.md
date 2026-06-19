@@ -12,13 +12,12 @@ executable solution programs, and independently verified route results.
 
 For detailed reproduction instructions, see `User_Guide_EN.md`. For the AI-KM
 platform overview, see `AI-KM_README.md` and the AI-KM project at
-https://github.com/whl1207/Knowledge. The AI-KM platform was developed as a 
-companion research output to support the study reported in this paper.
+https://github.com/whl1207/Knowledge.
 
 ## Method Overview
 
-K-HLIDF embeds an LLM into a controlled decision chain rather than using it as a
-one-shot solver. The framework contains three connected mechanisms.
+K-HLIDSS embeds an LLM into a controlled decision chain rather than using it as a
+one-shot solver. The system contains three connected mechanisms.
 
 1. Structured Semantic Schema based on Model Elements (SSSME)
 
