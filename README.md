@@ -3,7 +3,7 @@
 This repository contains the public experimental data, workflow configurations,
 source code, and certified result tables used in the paper on a
 knowledge-based human-LLM interaction decision support system (K-HLIDSS) for
-UAV emergency logistics network optimization.
+logistics network modeling and optimization.
 
 The study does not propose a new routing model or a single new metaheuristic.
 Instead, it evaluates how a structured human-LLM workflow can transform
